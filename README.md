@@ -4,6 +4,10 @@
 
 The application is built with **React, TypeScript, Vite, Tailwind CSS, and Supabase**, with a component-driven UI powered by Radix UI and shadcn-style components.
 
+## 🌐 Live Demo
+
+🔗 **Live Website:** [SafeReport](https://safe-report-major-project.vercel.app/)
+
 ## ✨ Features
 
 - 🔐 **User Authentication** — Secure authentication using Supabase
